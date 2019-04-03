@@ -1,0 +1,60 @@
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.deps.json
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.runtimeconfig.json
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.runtimeconfig.dev.json
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.dll
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.csprojAssemblyReference.cache
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.csproj.CoreCompileInputs.cache
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorAssemblyInfo.cache
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorAssemblyInfo.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.AssemblyInfoInputs.cache
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.AssemblyInfo.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.TagHelpers.input.cache
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.TagHelpers.output.cache
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorCoreGenerate.cache
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorTargetAssemblyInfo.cache
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorTargetAssemblyInfo.cs
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.pdb
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.Views.dll
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.Views.pdb
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.Views.pdb
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.dll
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.pdb
+E:\Programming\C# Project\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.csproj.CopyComplete
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.deps.json
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.runtimeconfig.json
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.runtimeconfig.dev.json
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.dll
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.pdb
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.Views.dll
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\bin\Debug\netcoreapp2.2\Asp.NetDependencyDemo.Views.pdb
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.csprojAssemblyReference.cache
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.csproj.CoreCompileInputs.cache
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorAssemblyInfo.cache
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorAssemblyInfo.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.AssemblyInfoInputs.cache
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.AssemblyInfo.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.TagHelpers.input.cache
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.TagHelpers.output.cache
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorCoreGenerate.cache
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorTargetAssemblyInfo.cache
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.RazorTargetAssemblyInfo.cs
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.Views.pdb
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.dll
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.pdb
+E:\Programming\ASP.Net\Asp.NetDependencyDemo\Asp.NetDependencyDemo\obj\Debug\netcoreapp2.2\Asp.NetDependencyDemo.csproj.CopyComplete
