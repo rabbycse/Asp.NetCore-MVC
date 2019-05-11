@@ -3,14 +3,16 @@ using EntityFrameworkDemo;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace EntityFrameworkDemo.Migrations
 {
     [DbContext(typeof(DemoContext))]
-    partial class DemoContextModelSnapshot : ModelSnapshot
+    [Migration("20190505181219_DatabaseInit")]
+    partial class DatabaseInit
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -27,11 +29,7 @@ namespace EntityFrameworkDemo.Migrations
                     b.Property<string>("Name")
                         .IsRequired();
 
-                    b.Property<int>("UserId");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("Courses");
                 });
@@ -51,14 +49,6 @@ namespace EntityFrameworkDemo.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
-                });
-
-            modelBuilder.Entity("EntityFrameworkDemo.Course", b =>
-                {
-                    b.HasOne("EntityFrameworkDemo.SiteUser", "User")
-                        .WithMany("Courses")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }

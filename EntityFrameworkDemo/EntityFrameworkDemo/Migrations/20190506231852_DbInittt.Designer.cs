@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EntityFrameworkDemo.Migrations
 {
     [DbContext(typeof(DemoContext))]
-    [Migration("20190408120322_DatabaseInit")]
-    partial class DatabaseInit
+    [Migration("20190506231852_DbInittt")]
+    partial class DbInittt
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -29,7 +29,11 @@ namespace EntityFrameworkDemo.Migrations
                     b.Property<string>("Name")
                         .IsRequired();
 
+                    b.Property<int>("UserId");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Courses");
                 });
@@ -49,6 +53,14 @@ namespace EntityFrameworkDemo.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("EntityFrameworkDemo.Course", b =>
+                {
+                    b.HasOne("EntityFrameworkDemo.SiteUser", "User")
+                        .WithMany("Courses")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618
         }

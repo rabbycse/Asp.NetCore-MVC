@@ -18,6 +18,9 @@ namespace EntityFrameworkDemo
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<SiteUser>().ToTable("Users");
+            modelBuilder.Entity<SiteUser>().HasMany(u => u.Courses).WithOne(c => c.User).HasForeignKey(c => c.UserId);
+            //modelBuilder.Entity<Course>().HasOne(u => u.User).WithMany(c => c.Courses).HasForeignKey(c => c.UserId); 
+
         }
         public DbSet<SiteUser> Users { get; set; }
         public DbSet<Course> Courses { get; set; } 

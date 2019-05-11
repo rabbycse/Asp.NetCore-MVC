@@ -20,8 +20,8 @@ namespace EntityFrameworkDemo.Controllers
             // Added 
             //_context.Users.Add(new SiteUser() { Name = "Rabbi", Username = "rabbicse", Password = "123456" });
             //_context.SaveChanges();
-            //_context.Courses.Add(new Course() { Name = "Asp.Net Core MVC" });
-            //_context.SaveChanges();
+            _context.Courses.Add(new Course() { Name = "Asp.Net Core MVC", UserId = 1 });
+            _context.SaveChanges();
 
             // Remove 
             //var user = _context.Users.Where(x => x.Id == 2).FirstOrDefault();
